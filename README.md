@@ -44,7 +44,7 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
 
 ## 🛠️ My favorite tools
 
-<table><tr><td valign="top" align="center" width="33%">
+<table><tr><td valign="top" align="center" width="32%">
 
 <h3 align="center"> Languages <h3>  
 <div align="center">  
@@ -60,7 +60,7 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
     <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height=60/> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height=60/></a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg" alt="PHP" title="PHP" height=60/></a>
-</div></td><td valign="top" width="33%">
+</div></td><td valign="top" width="32%">
 <h3 align="center"> Frameworks <h3>  
 <div>  
     <h4 aling="left"> <a href=https://www.python.org/ target="_blank"> <img alt=Python title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF> </a> </h4>
@@ -80,7 +80,7 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
         <a href="https://www.chartjs.org/" target="_blank"><img alt="Chart.js" title="Chart.js" src="https://camo.githubusercontent.com/5ef323398644d0544cbf5284d118cd027594a32f1ad973d13667f169d245e382/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c6f676f2d7469746c652e737667" height=60></a>
     <a href="https://www.tensorflow.org/js" target="_blank"><img alt="Tensorflow.js" title="Tensorflow.js" src="https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png" height=55></a>
     </p>
-</div></td><td valign="top" align="center" width="33%">
+</div></td><td valign="top" align="center" width="32%">
 <h3 align="center"> Databases <h3>  
 <div align="center">  
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height=60/></a> 
@@ -109,7 +109,7 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
 <ol>
    <li> 🔍 Before to discover how amazing <b>Computer Sciences</b> were <i>[2015]</i> I studied Plastic Arts <i>[2011-2013]</i>, and Scenic Arts <i>[2013-2015]</i>. <b>My life changed</b> just the day I discovered a <a href=https://www.java.com/ target="_blank"> <img alt="Java" title="Java" src=https://img.shields.io/static/v1?label=&message=Java&color=F8A83C&logo=java&logoColor=white/> </a> tutorial. </li>
     <ol>
-        <li>📚 Three months later, I decided to learn on my own all the mathematical background I lacked, and to enroll on a <b>Computer Science Degree</b>. This is the right day I became a <b>truly nerd</b> 🤓. </li>
+        <li>📚 Three months later, I decided to learn on my own all the mathematical background I lacked, and to enroll on a <b>Computer Sciences Bachelor's Degree</b>. This is the right day I became a <b>truly nerd</b> 🤓. </li>
     </ol>
     <li> 🏡 I have been <b>working remotely</b> since 2018.
     <li> 🚋 In 2021 I decided to move from Barcelona to a <b>quiet coastal town</b>. Now I feel closer to nirvana. <b>I'm not returning</b> to a crowded city anymore 👋. </li>
