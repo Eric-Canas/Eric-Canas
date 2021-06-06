@@ -87,14 +87,14 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height=60/> </a>
 </div>
 <h3 align="center"> Others <h3>  
-<div align="center">  
-    <a href="https://unity.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" title="Unity" height=50/> </a>
-    <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" title="Raspberry Pi" height=50/> </a>
-    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" title="Arduino" height=45/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" title="Git" height=50/> </a>
-    <a href="https://www.gnu.org/home.en.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="GNU/Linux" title="GNU/Linux" height=50/> </a>
-    <a href="https://www.openmp.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" alt="OpenMP" title="OpenMP" height=40/> </a>
-    <a href="https://www.latex-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" title="LaTeX" height=40/> </a>
+<div align="center">
+    <a href="https://unity.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" title="Unity" height=40/> </a>
+    <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" title="Raspberry Pi" height=40/> </a>
+    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" title="Arduino" height=35/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" title="Git" height=40/> </a>
+    <a href="https://www.gnu.org/home.en.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="GNU/Linux" title="GNU/Linux" height=40/> </a>
+    <a href="https://www.openmp.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" alt="OpenMP" title="OpenMP" height=30/> </a>
+    <a href="https://www.latex-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" title="LaTeX" height=30/> </a>
  </div></td>
 </tr></table>  
 
