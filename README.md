@@ -19,14 +19,14 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
 <table>
     <thead>
         <tr>
-          <th>💻 Technology </th>
-          <th>🔬 Principal Area </th>
+          <th>💻 Language </th>
+          <th>🔬 Principal Field </th>
           <th>🚀 Projects </th>
       </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=2> <a href=https://www.python.org/ target="_blank"> <img alt=Python src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF> </a> </td>
+            <td rowspan=2> <a href=https://www.python.org/ target="_blank"> <img alt="Python" title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF> </a> </td>
             <td align=center> Data Gathering & Data Science </td>
             <td> <a href=https://github.com/Eric-Canas/ICrawler target="_blank"> <img alt=Social-Media-Crawler src=https://img.shields.io/static/v1?label=Social-Media-Crawler&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> </a> </td>
         </tr>
@@ -35,7 +35,7 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
             <td> <a href=https://github.com/Eric-Canas/BabyRobot target="_blank"> <img alt=Baby-Robot src=https://img.shields.io/static/v1?label=Baby-Robot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> </a> </td>
         </tr>
         <tr>
-            <td> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt=JavaScript src=https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF> </a> </td>
+            <td> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt="JavaScript" title="JavaScript" src=https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF> </a> </td>
             <td> Machine Learning for Web & Tensorflow.js </td>
             <td> <a href=https://github.com/Eric-Canas/TrainerBot target="_blank"><img alt=Personal-Trainer src=https://img.shields.io/static/v1?label=Personal-Trainer&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> <a href=https://github.com/Eric-Canas/Drums-io target="_blank"> <img alt=Drums-io src=https://img.shields.io/static/v1?label=Drums-io&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> </a> </td>
         </tr>
@@ -107,7 +107,7 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
 
 ## :octocat: How I arrived here
 <ol>
-   <li> 🔍 Before to discover how amazing <b>Computer Sciences</b> were <i>[2015]</i> I studied Plastic Arts <i>[2011-2013]</i>, and Scenic Arts <i>[2013-2015]</i>. <b>My life changed</b> just the day I discovered a <a href=https://www.python.org/ target="_blank"> <img alt="Java" title="Java" src=https://img.shields.io/static/v1?label=&message=Java&color=F8A83C&logo=java&logoColor=white/> </a> tutorial. </li>
+   <li> 🔍 Before to discover how amazing <b>Computer Sciences</b> were <i>[2015]</i> I studied Plastic Arts <i>[2011-2013]</i>, and Scenic Arts <i>[2013-2015]</i>. <b>My life changed</b> just the day I discovered a <a href=https://www.java.com/ target="_blank"> <img alt="Java" title="Java" src=https://img.shields.io/static/v1?label=&message=Java&color=F8A83C&logo=java&logoColor=white/> </a> tutorial. </li>
     <ol>
         <li>📚 Three months later, I decided to learn on my own all the mathematical background I lacked, and to enroll on a <b>Computer Science Degree</b>. This is the right day I became a <b>truly nerd</b> 🤓. </li>
     </ol>
