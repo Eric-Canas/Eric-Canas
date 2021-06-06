@@ -9,16 +9,18 @@ src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" h
 <!-- About me -->
 I'm a **Computer Science** and **Computer Vision Engineer** with more than **3 years** of experience as **Researcher**. I have special enthusiasm for **Computer Vision** problems and **High Performance Computing**.
 From 2018 to 2021 I were working at **Computer Vision Center**, first developing a tool to <a href="https://drive.google.com/file/d/1AAhG9Kb59VKIgHowP4znPeQgBLi8-ejE/view?usp=sharing">**Analyze and Dissect Neurons in CNNs**</a> and later solving <a href="https://drive.google.com/file/d/1vrb50XJmlDDh7UJhj8GAXQNfNu0-TDOT/view?usp=sharing">**Super-Resolution problems with Deep Learning**</a>.
-Actually, I'm working in **Multifocal Structured Illumination Microscopy (MSIM)** at the **Department of Applied Physics** at the **University of Barcelona**, building **Deep Learning models** for fighting against the diffraction limit, and writing **C++ DLLs** with **OpenMP** for speeding up the experience.
+Actually, I'm working in **Multifocal Structured Illumination Microscopy (MSIM)** at the **Department of Applied Physics** at the **University of Barcelona**, building **Deep Learning models** for fighting against the diffraction limit and writing **C++ DLLs** with **OpenMP** for speeding up the experience.
+
+I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQlPekWA/view?usp=sharing">**Computer Sciences Bachelor's Degree**</a> and a <a href="https://drive.google.com/file/d/1fR7y11tNrGO-HDJNxAbzuBjOQEjVOYRf/view?usp=sharing">**Master's Degree on Artificial Intelligence**</a>. 
 
 <!-- Most Relevant Projects -->
-## 🗂️ Highlight Projects
+## 🗂️ Highlighted Projects
 
 <table>
     <thead>
         <tr>
           <th>💻 Technology </th>
-          <th> Principal Area </th>
+          <th>🔬 Principal Area </th>
           <th>🚀 Projects </th>
       </tr>
     </thead>
@@ -79,7 +81,7 @@ Actually, I'm working in **Multifocal Structured Illumination Microscopy (MSIM)*
     <a href="https://www.tensorflow.org/js" target="_blank"><img alt="Tensorflow.js" title="Tensorflow.js" src="https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png" height=55></a>
     </p>
 </div></td><td valign="top" align="center" width="33%">
-<h3 align="center"> Databases & Others <h3>  
+<h3 align="center"> Databases <h3>  
 <div align="center">  
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height=60/></a> 
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height=60/> </a>
@@ -91,6 +93,24 @@ Actually, I'm working in **Multifocal Structured Illumination Microscopy (MSIM)*
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" title="Arduino" height=45/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" title="Git" height=50/> </a>
     <a href="https://www.gnu.org/home.en.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="GNU/Linux" title="GNU/Linux" height=50/> </a>
+    <a href="https://www.openmp.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" alt="OpenMP" title="OpenMP" height=40/> </a>
     <a href="https://www.latex-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" title="LaTeX" height=40/> </a>
  </div></td>
 </tr></table>  
+
+## 🐼 About me
+<ol>
+    <li>💻 I use to code in <a href=https://www.python.org/ target="_blank"> <img alt="Python" title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF> </a>, but since I discovered <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt="TensorFlow.js" title="TensorFlow.js" src=https://img.shields.io/static/v1?label=&message=TensorflowJS&color=F1E05A&logo=javascript&logoColor=FFFFFF> </a> I'm very interested in building <b>web tools</b>. 
+    <li> 🤖 I dream with building a system for <b>automating every household task</b> that is not yet automated. </li>
+  <li> 📈 Weird fact: I record in a CSV what I do every half hour and how I do feel about, in order to make some <b>Data Science</b> for discovering which behaviour patterns makes me <b>happier</b>. </li>
+    </ol>
+
+## :octocat: How I arrived here
+<ol>
+   <li> 🔍 Before to discover how amazing <b>Computer Sciences</b> were <i>[2015]</i> I studied Plastic Arts <i>[2011-2013]</i>, and Scenic Arts <i>[2013-2015]</i>. <b>My life changed</b> just the day I discovered a <a href=https://www.python.org/ target="_blank"> <img alt="Java" title="Java" src=https://img.shields.io/static/v1?label=&message=Java&color=F8A83C&logo=java&logoColor=white/> </a> tutorial. </li>
+    <ol>
+        <li>📚 Three months later, I decided to learn on my own all the mathematical background I lacked, and to enroll on a <b>Computer Science Degree</b>. This is the right day I became a <b>truly nerd</b> 🤓. </li>
+    </ol>
+    <li> 🏡 I have been <b>working remotely</b> since 2018.
+    <li> 🚋 In 2021 I decided to move from Barcelona to a <b>quiet coastal town</b>. Now I feel closer to nirvana. <b>I'm not returning</b> to a crowded city anymore 👋. </li>
+</ol>
