@@ -28,16 +28,16 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
     <tbody>
         <tr>
             <td rowspan=2> <a href=https://www.python.org/ target="_blank"> <img alt="Python" title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF> </a> </td>
-            <td align=center> Data Gathering & Data Science </td>
+            <td align=center> Data Gathering, Data Science, Deep Learning & Crawling </td>
             <td> <a href=https://github.com/Eric-Canas/ICrawler target="_blank"> <img alt=Social-Media-Crawler src=https://img.shields.io/static/v1?label=Social-Media-Crawler&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> </a> </td>
         </tr>
         <tr>
-            <td align=center> Machine Learning & Robotics </td>
+            <td align=center> Machine Learning, Sockets & Robotics </td>
             <td> <a href=https://github.com/Eric-Canas/BabyRobot target="_blank"> <img alt=Baby-Robot src=https://img.shields.io/static/v1?label=Baby-Robot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> </a> </td>
         </tr>
         <tr>
             <td> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"> </a> </td>
-            <td> Machine Learning for Web & Tensorflow.js </td>
+            <td align=center> Machine Learning for Web & Tensorflow.js </td>
             <td> <a href=https://github.com/Eric-Canas/TrainerBot target="_blank"><img alt=Personal-Trainer src=https://img.shields.io/static/v1?label=Personal-Trainer&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> <a href=https://github.com/Eric-Canas/Drums-io target="_blank"> <img alt=Drums-io src=https://img.shields.io/static/v1?label=Drums-io&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> </a> </td>
         </tr>
     </tbody>
