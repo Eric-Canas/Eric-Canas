@@ -38,7 +38,7 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
         <tr>
             <td> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"> </a> </td>
             <td align=center> Machine Learning for Web & Tensorflow.js </td>
-            <td> <a href=https://github.com/Eric-Canas/TrainerBot target="_blank"><img alt=Personal-Trainer src=https://img.shields.io/static/v1?label=Personal-Trainer&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> <a href=https://github.com/Eric-Canas/Drums-io target="_blank"> <img alt=Drums-io src=https://img.shields.io/static/v1?label=Drums-io&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> </a> </td>
+            <td> <a href=https://github.com/Eric-Canas/Drums-io target="_blank"> <img alt=Drums-io src=https://img.shields.io/static/v1?label=Drums-io&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> </a> </td>
         </tr>
     </tbody>
 </table>
@@ -105,7 +105,6 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
     <li>💻 I use to code in <a href=https://www.python.org/ target="_blank"><img alt="Python" title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF></a>, but since I discovered <a href=https://www.tensorflow.org/js target="_blank"> <img alt="TensorFlow.js" title="TensorFlow.js" src=https://img.shields.io/static/v1?label=&message=Tensorflow.js&color=FF6000&logo=TensorFlow&logoColor=FFFFFF> </a> I'm very interested in building <b>web tools</b>. 
   <li> ❣️ I love <a href=https://pytorch.org/ target="_blank"><img alt="Pytorch" title="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"></a>, not only for Deep Learning purposes, but as the ultra-doped version of <a href="https://numpy.org/" target="_blank"><img alt="NumPy" title="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"></a>. It's like having the <b>power of CUDA</b> but in 5 minutes of coding.</li>
   <li> 🤖 I dream with building a system for <b>automating every household task</b> that is not yet automated. </li>
-  <li> 📈 Weird fact: I record in a CSV what I do every half hour and how I do feel about, in order to make some <b>Data Science</b> for discovering which behaviour patterns makes me <b>happier</b>. </li>
     </ol>
 
 ## :octocat: How I arrived here
