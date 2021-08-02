@@ -36,7 +36,11 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
             <td> <a href=https://github.com/Eric-Canas/BabyRobot target="_blank"> <img alt=Baby-Robot src=https://img.shields.io/static/v1?label=Baby-Robot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> </a> </td>
         </tr>
         <tr>
-            <td> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"> </a> </td>
+            <td rowspan=2> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"> </a> </td>
+            <td align=center> Open Source Computer Vision Library </td>
+            <td> <a href=https://github.com/Eric-Canas/Homography.js target="_blank"> <img alt=Homography.js src=https://img.shields.io/static/v1?label=Homograhy.js&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> </a> </td>
+        </tr>
+        <tr>
             <td align=center> Machine Learning for Web & Tensorflow.js </td>
             <td> <a href=https://github.com/Eric-Canas/Drums-io target="_blank"> <img alt=Drums-io src=https://img.shields.io/static/v1?label=Drums-io&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605> </a> </td>
         </tr>
