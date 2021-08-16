@@ -66,7 +66,7 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height=60/></a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg" alt="PHP" title="PHP" height=60/></a>
 </div></td><td valign="top" width="32%">
-<h3 align="center"> Frameworks <h3>  
+<h3 align="center"> Frameworks & Libraries<h3>  
 <div>  
     <h4 aling="left"> <a href=https://www.python.org/ target="_blank"> <img alt=Python title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF> </a> </h4>
     <p>
@@ -85,6 +85,7 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
     <p>
         <a href="https://www.chartjs.org/" target="_blank"><img alt="Chart.js" title="Chart.js" src="https://camo.githubusercontent.com/5ef323398644d0544cbf5284d118cd027594a32f1ad973d13667f169d245e382/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c6f676f2d7469746c652e737667" height=60></a>
     <a href="https://www.tensorflow.org/js" target="_blank"><img alt="Tensorflow.js" title="Tensorflow.js" src="https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png" height=55></a>
+    <a href="https://github.com/Eric-Canas/Homography.js" target="_blank"><img alt="HomographyJS" title="HomographyJS (just SPAM 🐼)" src="https://raw.githubusercontent.com/eric-canas/Homography.js/master/Documentation/logo/HomographyJSLogo.png" height=40></a>
     </p>
 </div></td><td valign="top" align="center" width="32%">
 <h3 align="center"> Databases <h3>  
