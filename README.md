@@ -66,7 +66,7 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height=60/></a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg" alt="PHP" title="PHP" height=60/></a>
 </div></td><td valign="top" width="32%">
-<h3 align="center"> Frameworks & Libraries<h3>  
+<h3 align="center"> Frameworks & Libraries <h3>  
 <div>  
     <h4 aling="left"> <a href=https://www.python.org/ target="_blank"> <img alt=Python title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF> </a> </h4>
     <p>
@@ -81,12 +81,12 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
     <a href="https://www.selenium.dev/" target="_blank"><img alt="Selenium" title="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height=45></a>
     <a href="https://www.qt.io/" target="_blank"><img alt="PyQT" title="PyQT" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Qt_logo_2015.svg" height=45></a>
     </p>
-    <h4 aling="left"> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt=JavaScript title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"> </a> </h4>
+    <h4 aling="left"> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt=JavaScript title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"> </a></h4>
     <p>
         <a href="https://www.chartjs.org/" target="_blank"><img alt="Chart.js" title="Chart.js" src="https://camo.githubusercontent.com/5ef323398644d0544cbf5284d118cd027594a32f1ad973d13667f169d245e382/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c6f676f2d7469746c652e737667" height=60></a>
     <a href="https://www.tensorflow.org/js" target="_blank"><img alt="Tensorflow.js" title="Tensorflow.js" src="https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png" height=55></a>
-        <a href="https://reactjs.org/" target="_blank"><img alt="React.js" title="React.js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=55></a>
-        <a href="https://reactstrap.github.io/" target="_blank"><img alt="Reactstrap" title="Reactstrap (Bootstrap but React.js-friendly)" src="https://raw.githubusercontent.com/reactstrap/reactstrap/master/docs/static/logo.png" height=55></a>
+        <a href="https://reactjs.org/" target="_blank"><img alt="React.js" title="React.js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=50></a>
+        <a href="https://reactstrap.github.io/" target="_blank"><img alt="Reactstrap" title="Reactstrap (Bootstrap but React.js-friendly)" src="https://raw.githubusercontent.com/reactstrap/reactstrap/master/docs/static/logo.png" height=50></a>
     <a href="https://github.com/Eric-Canas/Homography.js" target="_blank"><img alt="HomographyJS" title="HomographyJS (just SPAM 🐼)" src="https://raw.githubusercontent.com/eric-canas/Homography.js/master/Documentation/logo/HomographyJSLogo.png" height=40></a>
     </p>
     
@@ -95,6 +95,11 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
 <div align="center">  
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height=60/></a> 
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height=60/> </a>
+</div>
+<h3 align="center"> Web Technologies <h3>  
+<div align="center">  
+   <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap4" title="Bootstrap4" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=45></a> 
+    <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" title="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height=45></a> 
 </div>
 <h3 align="center"> Others <h3>  
 <div align="center">
