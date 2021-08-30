@@ -96,9 +96,11 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height=60/></a>
 </div>
 <h3 align="center"> Web Technologies <h3>  
-<div align="center">  
-   <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap4" title="Bootstrap4" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=45></a> 
-    <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" title="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height=45></a> 
+<div align="center">
+   <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap4" title="Bootstrap4" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=40></a> 
+    <a href="https://sass-lang.com/" target="_blank"><img alt="Sass" title="Sass" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height=40></a>
+    <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" title="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height=40></a> 
+</div>
 </div>
 <h3 align="center"> Others <h3>  
 <div align="center">
