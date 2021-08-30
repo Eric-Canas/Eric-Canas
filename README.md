@@ -53,12 +53,12 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
 
 <h3 align="center"> Languages <h3>  
 <div align="center">  
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height=60/> </a>
-<a href="https://www.iso.org/standard/57853.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" height=60/> </a>  
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height=60/> </a> 
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-original.svg" alt="C#" title="C#" height=60/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title ="Java" height=60/> </a>
-    <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" height=60/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height=60/></a>
+<a href="https://www.iso.org/standard/57853.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" height=60/></a>  
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height=60/></a> 
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-original.svg" alt="C#" title="C#" height=60/></a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title ="Java" height=60/></a>
+    <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" height=60/></a>
         <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/r/r-original.svg" alt="R" title="R" height=60/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bash/bash-original.svg" alt="Bash" title="GNU Bash" height=60/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height=60/> </a>
@@ -68,7 +68,7 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
 </div></td><td valign="top" width="32%">
 <h3 align="center"> Frameworks & Libraries <h3>  
 <div>  
-    <h4 aling="left"> <a href=https://www.python.org/ target="_blank"> <img alt=Python title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF> </a> </h4>
+    <h4 aling="left"> <a href=https://www.python.org/ target="_blank"> <img alt=Python title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF></a></h4>
     <p>
     <a href="https://scikit-learn.org/stable/" target="_blank"><img alt="scikit-learn" title="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height=45></a>
     <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" title="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height=45></a>
@@ -81,20 +81,19 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
     <a href="https://www.selenium.dev/" target="_blank"><img alt="Selenium" title="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height=45></a>
     <a href="https://www.qt.io/" target="_blank"><img alt="PyQT" title="PyQT" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Qt_logo_2015.svg" height=45></a>
     </p>
-    <h4 aling="left"> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt=JavaScript title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"> </a></h4>
+    <h4 aling="left"><a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"><img alt=JavaScript title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a></h4>
     <p>
-        <a href="https://www.chartjs.org/" target="_blank"><img alt="Chart.js" title="Chart.js" src="https://camo.githubusercontent.com/5ef323398644d0544cbf5284d118cd027594a32f1ad973d13667f169d245e382/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c6f676f2d7469746c652e737667" height=60></a>
-    <a href="https://www.tensorflow.org/js" target="_blank"><img alt="Tensorflow.js" title="Tensorflow.js" src="https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png" height=55></a>
         <a href="https://reactjs.org/" target="_blank"><img alt="React.js" title="React.js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=50></a>
         <a href="https://reactstrap.github.io/" target="_blank"><img alt="Reactstrap" title="Reactstrap (Bootstrap but React.js-friendly)" src="https://raw.githubusercontent.com/reactstrap/reactstrap/master/docs/static/logo.png" height=50></a>
-    <a href="https://github.com/Eric-Canas/Homography.js" target="_blank"><img alt="HomographyJS" title="HomographyJS (just SPAM 🐼)" src="https://raw.githubusercontent.com/eric-canas/Homography.js/master/Documentation/logo/HomographyJSLogo.png" height=40></a>
+      <a href="https://www.chartjs.org/" target="_blank"><img alt="Chart.js" title="Chart.js" src="https://camo.githubusercontent.com/5ef323398644d0544cbf5284d118cd027594a32f1ad973d13667f169d245e382/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c6f676f2d7469746c652e737667" height=60></a>
+    <a href="https://www.tensorflow.org/js" target="_blank"><img alt="Tensorflow.js" title="Tensorflow.js" src="https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png" height=55></a>
     </p>
     
 </div></td><td valign="top" align="center" width="32%">
 <h3 align="center"> Databases <h3>  
 <div align="center">  
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height=60/></a> 
-   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height=60/> </a>
+   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height=60/></a>
 </div>
 <h3 align="center"> Web Technologies <h3>  
 <div align="center">  
@@ -103,13 +102,13 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
 </div>
 <h3 align="center"> Others <h3>  
 <div align="center">
-    <a href="https://unity.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" title="Unity" height=40/> </a>
-    <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" title="Raspberry Pi" height=40/> </a>
-    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" title="Arduino" height=35/> </a>
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebooks" title="Jupyter Notebooks" height=40/> </a>
-    <a href="https://www.gnu.org/home.en.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="GNU/Linux" title="GNU/Linux" height=40/> </a>
-    <a href="https://www.openmp.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" alt="OpenMP" title="OpenMP" height=30/> </a>
-    <a href="https://www.latex-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" title="LaTeX" height=30/> </a>
+    <a href="https://unity.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" title="Unity" height=40/></a>
+    <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" title="Raspberry Pi" height=40/></a>
+    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" title="Arduino" height=35/></a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebooks" title="Jupyter Notebooks" height=40/></a>
+    <a href="https://www.gnu.org/home.en.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="GNU/Linux" title="GNU/Linux" height=40/></a>
+    <a href="https://www.openmp.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" alt="OpenMP" title="OpenMP" height=30/></a>
+    <a href="https://www.latex-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" title="LaTeX" height=30/></a>
  </div></td>
 </tr></table>  
 
