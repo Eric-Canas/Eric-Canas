@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://drive.google.com/file/d/15cPSXikPSATJ7Yr74iOZZ08KwebVWOPo/view?usp=sharing" target="_blank">Eric Cañas</a> <img
 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32" /></h1>
 </h1>
-<a href="https://github.com/Eric-Canas/" target="_blank"> <img alt="GitHub" title="Eric-Canas" src=https://img.shields.io/badge/-Github-black?style=flat&logo=github> </a>
-<a href="https://www.linkedin.com/in/eric-canas/" target="_blank"> <img alt="Linkedin" title="eric-canas" src=https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white> </a>
-<a href="https://stackoverflow.com/story/eric-canas" target="_blank"> <img alt="StackOverflow" title="eric-canas" src=https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white> </a>
-<a href="mailto:elcorreodeharu@gmail.com" target="_blank"> <img alt="Gmail" title="elcorreodeharu@gmail.com" src=https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white> </a>
-
+<a href="https://github.com/Eric-Canas/" target="_blank"> <img alt="GitHub" title="Eric-Canas" src=https://img.shields.io/badge/-Github-black?style=flat&logo=github></a> 
+<a href="https://www.linkedin.com/in/eric-canas/" target="_blank"> <img alt="Linkedin" title="eric-canas" src=https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white></a> 
+<a href="https://stackoverflow.com/story/eric-canas" target="_blank"> <img alt="StackOverflow" title="eric-canas" src=https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white></a> 
+<a href=https://www.shutterstock.com/g/HaruKaeru target="_blank"> <img alt="ShutterStock" title="ShutterStock" src=https://img.shields.io/static/v1?label=&message=Shutterstock&color=ECECEC&logo=Shutterstock&logoColor=red></a> 
+<a href="mailto:elcorreodeharu@gmail.com" target="_blank"> <img alt="Gmail" title="elcorreodeharu@gmail.com" src=https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white></a> 
 
 <!-- About me -->
 I'm a **Computer Science** and **Computer Vision Engineer** with more than **3 years** of experience as **Researcher**. I have special enthusiasm for **Computer Vision** problems and **High Performance Computing**.
@@ -117,13 +117,13 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
 ## 🐼 About me
 <ol>
     <li>💻 I use to code in <a href=https://www.python.org/ target="_blank"><img alt="Python" title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF></a>, but since I discovered <a href=https://www.tensorflow.org/js target="_blank"> <img alt="TensorFlow.js" title="TensorFlow.js" src=https://img.shields.io/static/v1?label=&message=Tensorflow.js&color=FF6000&logo=TensorFlow&logoColor=FFFFFF> </a> I'm very interested in building <b>web tools</b>. 
-  <li> ❣️ I love <a href=https://pytorch.org/ target="_blank"><img alt="Pytorch" title="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"></a>, not only for Deep Learning purposes, but as the ultra-doped version of <a href="https://numpy.org/" target="_blank"><img alt="NumPy" title="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"></a>. It's like having the <b>power of CUDA</b> but in 5 minutes of coding.</li>
+  <li> ❣️ I love <a href=https://pytorch.org/ target="_blank"><img alt="Pytorch" title="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"></a>, not only for Deep Learning purposes, but as the ultra-doped version of <a href="https://numpy.org/" target="_blank"><img alt="NumPy" title="NumPy" src="https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=Numpy&logoColor=white"></a>. It's like having the <b>power of CUDA</b> but in 5 minutes of coding.</li>
   <li> 🤖 I dream with building a system for <b>automating every household task</b> that is not yet automated. </li>
     </ol>
 
 ## :octocat: How I arrived here
 <ol>
-   <li> 🔍 Before to discover how amazing <b>Computer Sciences</b> were <i>[2015]</i> I studied Plastic Arts <i>[2011-2013]</i>, and Scenic Arts <i>[2013-2015]</i>. <b>My life changed</b> just the day I discovered a <a href=https://www.java.com/ target="_blank"> <img alt="Java" title="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?flat&logo=Java&logoColor=white"/> </a> tutorial. </li>
+   <li> 🔍 Before to discover how amazing <b>Computer Sciences</b> were <i>[2015]</i> I studied Plastic Arts <i>[2011-2013]</i>, and Scenic Arts <i>[2013-2015]</i>. <b>My life changed</b> just the day I discovered a <a href=https://www.java.com/ target="_blank"> <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?flat&logo=Java&logoColor=white"/> </a> tutorial. </li>
     <ol>
         <li>📚 Three months later, I decided to learn on my own all the mathematical background I lacked, and to enroll on a <b>Computer Sciences Bachelor's Degree</b>. This is the right day I became a <b>truly nerd</b> 🤓. </li>
     </ol>
