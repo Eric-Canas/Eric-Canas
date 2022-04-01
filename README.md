@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://drive.google.com/file/d/15cPSXikPSATJ7Yr74iOZZ08KwebVWOPo/view?usp=sharing" target="_blank">Eric Cañas</a> <img
+<h1 align="center">Hi there, I'm <a href="https://ericcanas.com/" target="_blank">Eric Cañas</a> <img
 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32" /></h1>
 </h1>
 <a href="https://github.com/Eric-Canas/" target="_blank"> <img alt="GitHub" title="Eric-Canas" src=https://img.shields.io/badge/-Github-black?style=flat&logo=github></a> 
@@ -8,11 +8,13 @@ src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" h
 <a href="mailto:elcorreodeharu@gmail.com" target="_blank"> <img alt="Gmail" title="elcorreodeharu@gmail.com" src=https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white></a> 
 
 <!-- About me -->
-I'm a **Computer Science** and **Computer Vision Engineer** with more than **3 years** of experience as **Researcher**. I have special enthusiasm for **Computer Vision** problems and **High Performance Computing**.
-From 2018 to 2021 I was working at **Computer Vision Center**, first developing a tool to <a href="https://drive.google.com/file/d/1AAhG9Kb59VKIgHowP4znPeQgBLi8-ejE/view?usp=sharing">**Analyze and Dissect Neurons in CNNs**</a> and later solving <a href="https://drive.google.com/file/d/1vrb50XJmlDDh7UJhj8GAXQNfNu0-TDOT/view?usp=sharing">**Super-Resolution problems with Deep Learning**</a>.
-Actually, I'm working in **Multifocal Structured Illumination Microscopy (MSIM)** at the **Department of Applied Physics** at the **University of Barcelona**, building **Deep Learning models** for fighting against the diffraction limit and writing **C++ DLLs** with **OpenMP** for speeding up the experience.
+I'm a **Computer Science** and **Computer Vision Engineer** with more than **3 years** of experience as **Researcher**. I have special enthusiasm for **Computer Vision** problems and **High Performance Computing**. Lately, I'm becoming very interested in **Web Applications** and **Multiplatform Programming**.  
+
+From 2018 to 2021 I was working at **Computer Vision Center**, first developing a tool to <a href="https://drive.google.com/file/d/1AAhG9Kb59VKIgHowP4znPeQgBLi8-ejE/view?usp=sharing">**Analyze and Dissect Neurons in CNNs**</a> and later solving <a href="https://drive.google.com/file/d/1vrb50XJmlDDh7UJhj8GAXQNfNu0-TDOT/view?usp=sharing">**Super-Resolution problems with Deep Learning**</a>. During 2021, I worked in **Multifocal Structured Illumination Microscopy (MSIM)** at the **Department of Applied Physics** at the **University of Barcelona**, building **Deep Learning models** for fighting against the diffraction limit and writing **C++ DLLs** with **OpenMP** for speeding up the experience. Actually, I'm working as **Computer Vision Engineer** at **Clutch**, a growing up start up that is developing a virtual badminton coach that delivers real time performance feedback to players.
 
 I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQlPekWA/view?usp=sharing">**Computer Sciences Bachelor's Degree**</a> and a <a href="https://drive.google.com/file/d/1fR7y11tNrGO-HDJNxAbzuBjOQEjVOYRf/view?usp=sharing">**Master's Degree on Artificial Intelligence**</a>. 
+
+Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio</a>.
 
 <!-- Most Relevant Projects -->
 ## 🗂️ Highlighted Projects
@@ -46,6 +48,7 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
         </tr>
     </tbody>
 </table>
+
 
 ## 🛠️ My favorite tools
 
@@ -115,6 +118,10 @@ I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQ
     <a href="https://www.latex-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" title="LaTeX" height=30/></a>
  </div></td>
 </tr></table>  
+    
+## 📝 Publications
+[1] **E. Canas**, A. M. García, A. Garrell and C. Angulo. <a href="https://dl.acm.org/doi/10.5555/3523760.3523860" target="_blank">Initial Test of "BabyRobot" Behaviour on a Teleoperated Toy Substitution: Improving the Motor Skills of Toddlers</a>. Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. pp. 708–712. Sapporo, Hokkaido, Japan. March 2022.
+    
 
 ## 🐼 About me
 <ol>
