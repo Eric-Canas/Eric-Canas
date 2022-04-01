@@ -4,8 +4,9 @@ src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" h
 <a href="https://github.com/Eric-Canas/" target="_blank"> <img alt="GitHub" title="Eric-Canas" src=https://img.shields.io/badge/-Github-black?style=flat&logo=github></a> 
 <a href="https://www.linkedin.com/in/eric-canas/" target="_blank"> <img alt="Linkedin" title="eric-canas" src=https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white></a> 
 <a href="https://stackoverflow.com/story/eric-canas" target="_blank"> <img alt="StackOverflow" title="eric-canas" src=https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white></a> 
-<a href=https://www.shutterstock.com/g/HaruKaeru target="_blank"> <img alt="ShutterStock" title="ShutterStock" src=https://img.shields.io/static/v1?label=&message=Shutterstock&color=ECECEC&logo=Shutterstock&logoColor=red></a> 
+<a href=https://scholar.google.com/citations?user=VmZ_MmgAAAAJ&hl=es&oi=ao target="_blank"> <img alt="GoogleScholar" title="Google Scholar" src=https://img.shields.io/static/v1?style=flat&label=&message=Scholar&color=49A5D6&logo=GoogleScholar&logoColor=ACDAF2></a> 
 <a href="mailto:elcorreodeharu@gmail.com" target="_blank"> <img alt="Gmail" title="elcorreodeharu@gmail.com" src=https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white></a> 
+<a href=https://www.shutterstock.com/g/HaruKaeru target="_blank"> <img alt="ShutterStock" title="ShutterStock" src=https://img.shields.io/static/v1?label=&message=Shutterstock&color=ECECEC&logo=Shutterstock&logoColor=red></a> 
 
 <!-- About me -->
 I'm a **Computer Science** and **Computer Vision Engineer** with more than **3 years** of experience as **Researcher**. I have special enthusiasm for **Computer Vision** problems and **High Performance Computing**. Lately, I'm becoming very interested in **Web Applications** and **Multiplatform Programming**.  
@@ -120,7 +121,9 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
 </tr></table>  
     
 ## 📝 Publications
-[1] **E. Canas**, A. M. García, A. Garrell and C. Angulo. <a href="https://dl.acm.org/doi/10.5555/3523760.3523860" target="_blank">Initial Test of "BabyRobot" Behaviour on a Teleoperated Toy Substitution: Improving the Motor Skills of Toddlers</a>. Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. pp. 708–712. Sapporo, Hokkaido, Japan. March 2022.
+[1] **E. Canas**, A. M. García, A. Garrell and C. Angulo. <a href="https://dl.acm.org/doi/10.5555/3523760.3523860" target="_blank">Initial Test of "BabyRobot" Behaviour on a Teleoperated Toy Substitution: Improving the Motor Skills of Toddlers</a>. Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. pp. 708–712. Sapporo, Hokkaido, Japan. _March 2022_.
+    
+[2] F. Lumbreras, R. Bola, **E. Canas**, S. Lumbreras, E. Martín-Badosa and M. Montes-Usategui. <a href="https://phase1.attract-eu.com/showroom/project/scored-super-resolution-confocal-microscopy-enhanced-by-deep-learning/" target="_blank">SCORED: Super-resolution Confocal Microscopy Enhanced by Deep-Learning</a>. ATTRACT Final Conference. _September 2020_.
     
 
 ## 🐼 About me
