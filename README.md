@@ -32,20 +32,24 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
         <tr>
             <td rowspan=2> <a href=https://www.python.org/ target="_blank"> <img alt="Python" title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF></a> </td>
             <td align=center> Data Gathering, Data Science, Deep Learning & Crawling </td>
-            <td> <a href=https://github.com/Eric-Canas/ICrawler target="_blank"> <img alt=Social-Media-Crawler src=https://img.shields.io/static/v1?label=Social-Media-Crawler&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+            <td> <a href=https://github.com/Eric-Canas/ICrawler target="_blank"> <img alt=Social-Media-Crawler title="ICrawler" src=https://img.shields.io/static/v1?label=Social-Media-Crawler&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
         <tr>
             <td align=center> Machine Learning, Sockets & Robotics </td>
-            <td> <a href=https://github.com/Eric-Canas/BabyRobot target="_blank"> <img alt=Baby-Robot src=https://img.shields.io/static/v1?label=Baby-Robot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+            <td> <a href=https://github.com/Eric-Canas/BabyRobot target="_blank"> <img alt=Baby-Robot title="Baby Robot" src=https://img.shields.io/static/v1?label=Baby-Robot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
         <tr>
-            <td rowspan=2> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a> </td>
+            <td rowspan=3> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a> </td>
             <td align=center> Machine Learning for Web & Tensorflow.js </td>
-            <td> <a href=https://github.com/Eric-Canas/Drums-io target="_blank"> <img alt=Drums-io src=https://img.shields.io/static/v1?label=Drums-io&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href=https://github.com/Eric-Canas/Makeup-Hub target="_blank"> <img alt=Makeup-Hub src=https://img.shields.io/static/v1?label=Makeup-Hub&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>   
+            <td> <a href=https://github.com/Eric-Canas/Drums-io target="_blank"> <img alt=Drums-io title="Drums.io"855 src=https://img.shields.io/static/v1?label=Drums-io&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href=https://github.com/Eric-Canas/Makeup-Hub target="_blank"> <img alt=Makeup-Hub title="Makeup-Hub" src=https://img.shields.io/static/v1?label=Makeup-Hub&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>   
         </tr>
         <tr>
         <td align=center> Open Source Computer Vision Library </td>
-        <td> <a href=https://github.com/Eric-Canas/Homography.js target="_blank"> <img alt=Homography.js src=https://img.shields.io/static/v1?label=Homograhy.js&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+        <td> <a href=https://github.com/Eric-Canas/Homography.js target="_blank"> <img alt=Homography.js title="Homography.js" src=https://img.shields.io/static/v1?label=Homograhy.js&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+        </tr>
+        <tr>
+        <td align=center> React.js & Serverless Websites </td>
+        <td> <a href=https://github.com/Eric-Canas/portfolio target="_blank"> <img alt="My Portfolio" title="My Portfolio" src=https://img.shields.io/static/v1?label=Portfolio.js&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
     </tbody>
 </table>
@@ -88,6 +92,7 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
     <h4 aling="left"><a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"><img alt=JavaScript title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a></h4>
     <p>
         <a href="https://reactjs.org/" target="_blank"><img alt="React.js" title="React.js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=50></a>
+         <a href="https://graphql.org/" target="_blank"><img alt="GraphQL" title="GraphQL" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=50></a>
         <a href="https://mui.com/" target="_blank"><img alt="MUI" title="MUI" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" height=45></a>
          <a href="https://www.framer.com/docs/" target="_blank"><img alt="Framer-Motion" title="Framer-Motion" src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" height=50></a>
         <a href="https://reactstrap.github.io/" target="_blank"><img alt="Reactstrap" title="Reactstrap" src="https://bitsrc.imgix.net/bf6bf662a8ec36e6abebf95da4e68615abeff227.png?fit=scale&w=185&h=185" height=50></a>
@@ -103,9 +108,11 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
 </div>
 <h3 align="center"> Web Technologies <h3>  
 <div align="center">
-   <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap4" title="Bootstrap4" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=40></a> 
+   <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=40></a> 
     <a href="https://sass-lang.com/" target="_blank"><img alt="Sass" title="Sass" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height=40></a>
-    <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" title="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height=40></a> 
+    <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" title="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height=40></a>
+        <a href="https://www.gatsbyjs.com/" target="_blank"><img alt="Gatsby.js" title="Gatsby.js" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" height=40></a> 
+    <a href="https://www.contentful.com/" target="_blank"><img alt="Contentful" title="Contentful" src="https://seeklogo.com/images/C/contentful-logo-C395C545BF-seeklogo.com.png" height=40></a>
 </div>
 </div>
 <h3 align="center"> Others <h3>  
