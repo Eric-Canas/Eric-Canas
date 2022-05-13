@@ -49,7 +49,7 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
         </tr>
         <tr>
         <td align=center> React.js & Serverless Websites </td>
-        <td> <a href=https://github.com/Eric-Canas/portfolio target="_blank"> <img alt="My Portfolio" title="My Portfolio" src=https://img.shields.io/static/v1?label=Portfolio.js&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+        <td> <a href=https://github.com/Eric-Canas/portfolio target="_blank"> <img alt="My Portfolio" title="My Portfolio" src=https://img.shields.io/static/v1?label=Portfolio&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
     </tbody>
 </table>
