@@ -39,7 +39,7 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
             <td> <a href=https://github.com/Eric-Canas/BabyRobot target="_blank"> <img alt=Baby-Robot title="Baby Robot" src=https://img.shields.io/static/v1?label=Baby-Robot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
         <tr>
-            <td rowspan=3> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a> </td>
+            <td rowspan=3> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a> </td>
             <td align=center> Machine Learning for Web & Tensorflow.js </td>
             <td> <a href=https://github.com/Eric-Canas/Drums-io target="_blank"> <img alt=Drums-io title="Drums.io"855 src=https://img.shields.io/static/v1?label=Drums-io&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href=https://github.com/Eric-Canas/Makeup-Hub target="_blank"> <img alt=Makeup-Hub title="Makeup-Hub" src=https://img.shields.io/static/v1?label=Makeup-Hub&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>   
         </tr>
@@ -89,10 +89,9 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
     <a href="https://www.selenium.dev/" target="_blank"><img alt="Selenium" title="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height=45></a>
     <a href="https://www.qt.io/" target="_blank"><img alt="PyQT" title="PyQT" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Qt_logo_2015.svg" height=45></a>
     </p>
-    <h4 aling="left"><a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"><img alt=JavaScript title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a></h4>
+    <h4 aling="left"><a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"><img alt=JavaScript title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a></h4>
     <p>
         <a href="https://reactjs.org/" target="_blank"><img alt="React.js" title="React.js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=50></a>
-         <a href="https://graphql.org/" target="_blank"><img alt="GraphQL" title="GraphQL" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=50></a>
         <a href="https://mui.com/" target="_blank"><img alt="MUI" title="MUI" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" height=45></a>
          <a href="https://www.framer.com/docs/" target="_blank"><img alt="Framer-Motion" title="Framer-Motion" src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" height=50></a>
         <a href="https://reactstrap.github.io/" target="_blank"><img alt="Reactstrap" title="Reactstrap" src="https://bitsrc.imgix.net/bf6bf662a8ec36e6abebf95da4e68615abeff227.png?fit=scale&w=185&h=185" height=50></a>
@@ -105,6 +104,7 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
 <div align="center">  
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height=60/></a> 
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height=60/></a>
+             <a href="https://graphql.org/" target="_blank"><img alt="GraphQL" title="GraphQL" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=50></a>
 </div>
 <h3 align="center"> Web Technologies <h3>  
 <div align="center">
