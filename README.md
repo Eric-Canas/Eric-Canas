@@ -30,13 +30,17 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
     </thead>
     <tbody>
         <tr>
-            <td rowspan=2> <a href=https://www.python.org/ target="_blank"> <img alt="Python" title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF></a> </td>
+            <td rowspan=3> <a href=https://www.python.org/ target="_blank"> <img alt="Python" title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF></a> </td>
             <td align=center> Data Gathering, Data Science, Deep Learning & Crawling </td>
             <td> <a href=https://github.com/Eric-Canas/ICrawler target="_blank"> <img alt=Social-Media-Crawler title="ICrawler" src=https://img.shields.io/static/v1?label=Social-Media-Crawler&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
         <tr>
             <td align=center> Machine Learning, Sockets & Robotics </td>
             <td> <a href=https://github.com/Eric-Canas/BabyRobot target="_blank"> <img alt=Baby-Robot title="Baby Robot" src=https://img.shields.io/static/v1?label=Baby-Robot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+        </tr>
+                <tr>
+        <td align=center> Open Source Computer Vision Library </td>
+        <td> <a href=https://github.com/Eric-Canas/pic2world target="_blank"> <img alt=Pic2World title="Pic2World" src=https://img.shields.io/static/v1?label=Pic2World&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
         <tr>
             <td rowspan=3> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a> </td>
