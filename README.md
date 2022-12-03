@@ -11,7 +11,7 @@ src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" h
 <!-- About me -->
 I'm a **Computer Science** and **Computer Vision Engineer** with more than **3 years** of experience as **Researcher**. I have special enthusiasm for **Computer Vision** problems and **High Performance Computing**. Lately, I'm becoming very interested in **Web Applications** and **Multiplatform Programming**.  
 
-From 2018 to 2021 I was working at **Computer Vision Center**, first developing a tool to <a href="https://drive.google.com/file/d/1AAhG9Kb59VKIgHowP4znPeQgBLi8-ejE/view?usp=sharing">**Analyze and Dissect Neurons in CNNs**</a> and later solving <a href="https://drive.google.com/file/d/1vrb50XJmlDDh7UJhj8GAXQNfNu0-TDOT/view?usp=sharing">**Super-Resolution problems with Deep Learning**</a>. During 2021, I worked in **Multifocal Structured Illumination Microscopy (MSIM)** at the **Department of Applied Physics** at the **University of Barcelona**, building **Deep Learning models** for fighting against the diffraction limit and writing **C++ DLLs** with **OpenMP** for speeding up the experience. Actually, I'm working as **Computer Vision Engineer** at **Clutch**, a growing up start up that is developing a virtual badminton coach that delivers real time performance feedback to players.
+From 2018 to 2021 I was working at **Computer Vision Center**, first developing a tool to <a href="https://drive.google.com/file/d/1AAhG9Kb59VKIgHowP4znPeQgBLi8-ejE/view?usp=sharing">**Analyze and Dissect Neurons in CNNs**</a> and later solving <a href="https://drive.google.com/file/d/1vrb50XJmlDDh7UJhj8GAXQNfNu0-TDOT/view?usp=sharing">**Super-Resolution problems with Deep Learning**</a>. During 2021, I worked in **Multifocal Structured Illumination Microscopy (MSIM)** at the **Department of Applied Physics** at the **University of Barcelona**, building **Deep Learning models** for fighting against the diffraction limit and writing **C++ DLLs** with **OpenMP** for speeding up the experience. From 2022 to 2023, I have been working as **Computer Vision Engineer** at **Clutch**, a growing up start up that is developing a virtual badminton coach that delivers real time performance feedback to players. Now, **I'm trying to build something great**.
 
 I studied a <a href="https://drive.google.com/file/d/1mT9Y713TgEC4xUxjD5ktASTQsQlPekWA/view?usp=sharing">**Computer Sciences Bachelor's Degree**</a> and a <a href="https://drive.google.com/file/d/1fR7y11tNrGO-HDJNxAbzuBjOQEjVOYRf/view?usp=sharing">**Master's Degree on Artificial Intelligence**</a>. 
 
@@ -30,34 +30,34 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4> <a href=https://www.python.org/ target="_blank"> <img alt="Python" title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF></a> </td>
+            <td rowspan=4> <a href=https://www.python.org/ target="_blank"><img alt="Python" title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF></a> </td>
             <td align=center> Data Gathering, Data Science, Deep Learning & Crawling </td>
-            <td> <a href=https://github.com/Eric-Canas/ICrawler target="_blank"> <img alt=Social-Media-Crawler title="ICrawler" src=https://img.shields.io/static/v1?label=Social-Media-Crawler&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+            <td> <a href=https://github.com/Eric-Canas/ICrawler target="_blank"><img alt=Social-Media-Crawler title="ICrawler" src=https://img.shields.io/static/v1?label=Social-Media-Crawler&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
         <tr>
             <td align=center> Machine Learning, Sockets & Robotics </td>
-            <td> <a href=https://github.com/Eric-Canas/BabyRobot target="_blank"> <img alt=Baby-Robot title="Baby Robot" src=https://img.shields.io/static/v1?label=Baby-Robot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+            <td> <a href=https://github.com/Eric-Canas/BabyRobot target="_blank"><img alt=Baby-Robot title="Baby Robot" src=https://img.shields.io/static/v1?label=Baby-Robot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
                 <tr>
         <td align=center> Open Source Computer Vision Library </td>
-        <td> <a href=https://github.com/Eric-Canas/pic2world target="_blank"> <img alt=Pic2World title="Pic2World" src=https://img.shields.io/static/v1?label=Pic2World&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+        <td> <a href=https://github.com/Eric-Canas/pic2world target="_blank"><img alt=Pic2World title="Pic2World" src=https://img.shields.io/static/v1?label=Pic2World&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
            <tr>
         <td align=center> Utilities </td>
-        <td> <a href=https://github.com/Eric-Canas/JPEG-MetaFilter target="_blank"> <img alt=JPEG-MetaFilter title="JPEG-MetaFilter" src=https://img.shields.io/static/v1?label=JPEG-MetaFilter&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+        <td> <a href=https://github.com/Eric-Canas/JPEG-MetaFilter target="_blank"><img alt=JPEG-MetaFilter title="JPEG-MetaFilter" src=https://img.shields.io/static/v1?label=JPEG-MetaFilter&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href=https://github.com/Eric-Canas/qreader target="_blank"> <img alt=QReader title="QReader" src=https://img.shields.io/static/v1?label=QReader&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
         <tr>
-            <td rowspan=3> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"> <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a> </td>
+            <td rowspan=3> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a> </td>
             <td align=center> Machine Learning for Web & Tensorflow.js </td>
-            <td> <a href=https://github.com/Eric-Canas/Drums-app target="_blank"> <img alt=Drums-ap title="Drums.io"855 src=https://img.shields.io/static/v1?label=Drums-app&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href=https://github.com/Eric-Canas/Makeup-Hub target="_blank"> <img alt=Makeup-Hub title="Makeup-Hub" src=https://img.shields.io/static/v1?label=Makeup-Hub&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>   
+            <td> <a href=https://github.com/Eric-Canas/Drums-app target="_blank"><img alt=Drums-ap title="Drums-app"855 src=https://img.shields.io/static/v1?label=Drums-app&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href=https://github.com/Eric-Canas/Makeup-Hub target="_blank"><img alt=Makeup-Hub title="Makeup-Hub" src=https://img.shields.io/static/v1?label=Makeup-Hub&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>   
         </tr>
         <tr>
         <td align=center> Open Source Computer Vision Library </td>
-        <td> <a href=https://github.com/Eric-Canas/Homography.js target="_blank"> <img alt=Homography.js title="Homography.js" src=https://img.shields.io/static/v1?label=Homograhy.js&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+        <td> <a href=https://github.com/Eric-Canas/Homography.js target="_blank"><img alt=Homography.js title="Homography.js" src=https://img.shields.io/static/v1?label=Homograhy.js&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
         <tr>
         <td align=center> React.js & Serverless Websites </td>
-        <td> <a href=https://github.com/Eric-Canas/portfolio target="_blank"> <img alt="My Portfolio" title="My Portfolio" src=https://img.shields.io/static/v1?label=Portfolio&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+        <td> <a href=https://github.com/Eric-Canas/portfolio target="_blank"><img alt="My Portfolio" title="My Portfolio" src=https://img.shields.io/static/v1?label=Portfolio&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
     </tbody>
 </table>
