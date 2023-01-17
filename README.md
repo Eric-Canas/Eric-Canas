@@ -40,7 +40,7 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
         </tr>
                 <tr>
         <td align=center> Open Source Computer Vision Library </td>
-        <td> <a href=https://github.com/Eric-Canas/pic2world target="_blank"><img alt=Pic2World title="Pic2World" src=https://img.shields.io/static/v1?label=Pic2World&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+        <td> <a href=https://github.com/Eric-Canas/pic2world target="_blank"><img alt=Pic2World title="Pic2World" src=https://img.shields.io/static/v1?label=Pic2World&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href= https://github.com/Eric-Canas/qrdet target="_blank"><img alt="QRDet" title="QRDet" src=https://img.shields.io/static/v1?label=QRDet&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
            <tr>
         <td align=center> Utilities </td>
