@@ -49,7 +49,7 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
         <tr>
             <td rowspan=3> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a> </td>
             <td align=center> Machine Learning for Web & Tensorflow.js </td>
-            <td> <a href=https://github.com/Eric-Canas/Drums-app target="_blank"><img alt=Drums-ap title="Drums-app"855 src=https://img.shields.io/static/v1?label=Drums-app&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href=https://github.com/Eric-Canas/Makeup-Hub target="_blank"><img alt=Makeup-Hub title="Makeup-Hub" src=https://img.shields.io/static/v1?label=Makeup-Hub&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>   
+            <td> <a href=https://github.com/Eric-Canas/Drums-app target="_blank"><img alt=Drums-app title="Drums-app"855 src=https://img.shields.io/static/v1?label=Drums-app&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href=https://github.com/Eric-Canas/Makeup-Hub target="_blank"><img alt=Makeup-Hub title="Makeup-Hub" src=https://img.shields.io/static/v1?label=Makeup-Hub&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>   
         </tr>
         <tr>
         <td align=center> Open Source Computer Vision Library </td>
@@ -140,7 +140,11 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
     
 [2] F. Lumbreras, R. Bola, **E. Canas**, S. Lumbreras, E. Martín-Badosa and M. Montes-Usategui. <a href="https://phase1.attract-eu.com/showroom/project/scored-super-resolution-confocal-microscopy-enhanced-by-deep-learning/" target="_blank">SCORED: Super-resolution Confocal Microscopy Enhanced by Deep-Learning</a>. ATTRACT Final Conference. _September 2020_.
     
-
+## 📺 On the Media
+<ol>
+    <li>:arrow_forward: <a href=https://github.com/Eric-Canas/Drums-app target="_blank">Drums-app</a> was featured on the <a href="https://www.youtube.com/live/jkoUjbsHk6s?feature=share&t=3507" target="_blank"/>TensorFlow.js Community "Show & Tell" #9</li>
+</ol>
+    
 ## 🐼 About me
 <ol>
     <li>💻 I use to code in <a href=https://www.python.org/ target="_blank"><img alt="Python" title="Python" src=https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF></a>, but since I discovered <a href=https://www.tensorflow.org/js target="_blank"> <img alt="TensorFlow.js" title="TensorFlow.js" src=https://img.shields.io/static/v1?label=&message=Tensorflow.js&color=FF6000&logo=TensorFlow&logoColor=FFFFFF> </a> I'm very interested in building <b>web tools</b>. 
