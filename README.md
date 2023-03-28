@@ -39,12 +39,12 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
             <td> <a href=https://github.com/Eric-Canas/BabyRobot target="_blank"><img alt=Baby-Robot title="Baby Robot" src=https://img.shields.io/static/v1?label=Baby-Robot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
                 <tr>
-        <td align=center> Open Source Computer Vision Library </td>
+        <td align=center> Computer Vision Libraries </td>
         <td> <a href=https://github.com/Eric-Canas/pic2world target="_blank"><img alt=Pic2World title="Pic2World" src=https://img.shields.io/static/v1?label=Pic2World&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href= https://github.com/Eric-Canas/qrdet target="_blank"><img alt="QRDet" title="QRDet" src=https://img.shields.io/static/v1?label=QRDet&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
            <tr>
-        <td align=center> Utilities </td>
-        <td> <a href=https://github.com/Eric-Canas/JPEG-MetaFilter target="_blank"><img alt=JPEG-MetaFilter title="JPEG-MetaFilter" src=https://img.shields.io/static/v1?label=JPEG-MetaFilter&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href=https://github.com/Eric-Canas/qreader target="_blank"> <img alt=QReader title="QReader" src=https://img.shields.io/static/v1?label=QReader&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
+        <td align=center> Utilities & Libraries </td>
+        <td> <a href=https://github.com/Eric-Canas/JPEG-MetaFilter target="_blank"><img alt=JPEG-MetaFilter title="JPEG-MetaFilter" src=https://img.shields.io/static/v1?label=JPEG-MetaFilter&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href=https://github.com/Eric-Canas/qreader target="_blank"> <img alt=QReader title="QReader" src=https://img.shields.io/static/v1?label=QReader&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href=https://github.com/Eric-Canas/USBMonitor target="_blank"><img alt=USBMonitor title="USBMonitor" src=https://img.shields.io/static/v1?label=USBMonitor&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
         <tr>
             <td rowspan=3> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a> </td>
@@ -52,7 +52,7 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
             <td> <a href=https://github.com/Eric-Canas/Drums-app target="_blank"><img alt=Drums-app title="Drums-app"855 src=https://img.shields.io/static/v1?label=Drums-app&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> <a href=https://github.com/Eric-Canas/Makeup-Hub target="_blank"><img alt=Makeup-Hub title="Makeup-Hub" src=https://img.shields.io/static/v1?label=Makeup-Hub&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>   
         </tr>
         <tr>
-        <td align=center> Open Source Computer Vision Library </td>
+        <td align=center> Computer Vision Libraries </td>
         <td> <a href=https://github.com/Eric-Canas/Homography.js target="_blank"><img alt=Homography.js title="Homography.js" src=https://img.shields.io/static/v1?label=Homograhy.js&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605></a> </td>
         </tr>
         <tr>
