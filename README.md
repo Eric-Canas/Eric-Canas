@@ -7,6 +7,7 @@ src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" h
 <a href=https://scholar.google.com/citations?user=VmZ_MmgAAAAJ&hl=es&oi=ao target="_blank"> <img alt="GoogleScholar" title="Google Scholar" src=https://img.shields.io/static/v1?style=flat&label=&message=Scholar&color=49A5D6&logo=GoogleScholar&logoColor=ACDAF2></a> 
 <a href="mailto:elcorreodeharu@gmail.com" target="_blank"> <img alt="Gmail" title="elcorreodeharu@gmail.com" src=https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white></a> 
 <a href=https://www.shutterstock.com/g/HaruKaeru target="_blank"> <img alt="ShutterStock" title="ShutterStock" src=https://img.shields.io/static/v1?label=&message=Shutterstock&color=ECECEC&logo=Shutterstock&logoColor=red></a> 
+<a href=https://github.com/sponsors/Eric-Canas target=_blank><img alt="Sponsors" title="elcorreodeharu@gmail.com" src=https://img.shields.io/static/v1?style=flat&label=&message=Sponsors&logo=GitHubSponsors></a>
 
 <!-- About me -->
 I'm a **Computer Science** and **Computer Vision Engineer** with more than **3 years** of experience as **Researcher**. I have special enthusiasm for **Computer Vision** problems and **High Performance Computing**. Lately, I'm becoming very interested in **Web Applications** and **Multiplatform Programming**.  
