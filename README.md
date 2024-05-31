@@ -189,6 +189,6 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
 
 <div align="center">
     <a href="https://github.com/Eric-Canas">
-        <img src="https://github-profile-trophy.vercel.app/?username=Eric-Canas&theme=discord&title=MultiLanguage,Stars,Commits,Repositories,Experiece,Followers" alt="GitHub Trophies"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=Eric-Canas&theme=discord&title=MultiLanguage,Stars,Commits,Repositories,Experiece,Followers&column=-1" alt="GitHub Trophies"/>
     </a>
 </div>
