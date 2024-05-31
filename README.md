@@ -166,7 +166,7 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
 
 ## :octocat: How I arrived here
 <ol>
-   <li> 🔍 Before to discover how amazing <b>Computer Sciences</b> were <i>[2015]</i> I studied Plastic Arts <i>[2011-2013]</i>, and Scenic Arts <i>[2013-2015]</i>. <b>My life changed</b> just the day I discovered a <a href=https://www.java.com/ target="_blank"> <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?flat&logo=Java&logoColor=white"/> </a> tutorial. </li>
+   <li> 🔍 Before to discover how amazing <b>Computer Sciences</b> were <i>[2015]</i> I studied Plastic Arts <i>[2011-2013]</i>, and Scenic Arts <i>[2013-2015]</i>. <b>My life changed</b> just the day I discovered a <a href=https://www.java.com/ target="_blank"><img alt="Java" title="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?flat&logo=java&logoColor=white"/></a> tutorial. </li>
     <ol>
         <li>📚 Three months later, I decided to learn on my own all the mathematical background I lacked, and to enroll on a <b>Computer Sciences Bachelor's Degree</b>. This is the right day I became a <b>truly nerd</b> 🤓. </li>
     </ol>
@@ -180,10 +180,10 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
 
 <p align="center">
     <a href="https://github.com/Eric-Canas">
-        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Eric-Canas&show_icons=true&theme=transparent&include_all_commits=true&card_width=300" alt="Github Readme Stats Card"/>
+        <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=Eric-Canas&show_icons=true&theme=transparent&hide=prs&include_all_commits=true&card_width=300" alt="Github Readme Stats Card"/>
     </a>
     <a href="https://github.com/Eric-Canas">
-        <img height="200" align="center" src="https://streak-stats.demolab.com/?user=Eric-Canas&theme=transparent&hide_current_streak=true&card_width=400" alt="Github Streak Stats"/>
+        <img height="175" align="center" src="https://streak-stats.demolab.com/?user=Eric-Canas&theme=transparent&hide_current_streak=true&card_width=400" alt="Github Streak Stats"/>
     </a>
 </p>
 
