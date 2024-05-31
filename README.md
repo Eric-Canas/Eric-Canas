@@ -182,5 +182,5 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
 </a>
 
 <a href="https://github.com/Eric-Canas">
-    <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Eric-Canas&theme=transparent" />
+    <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Eric-Canas&theme=transparent&hide_current_streak=true" />
 </a>
