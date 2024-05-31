@@ -180,7 +180,7 @@ Feel free to check my <a href="https://ericcanas.com/" target="_blank">Portfolio
 
 <p align="center">
     <a href="https://github.com/Eric-Canas">
-        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Eric-Canas&show_icons=true&theme=transparent&include_all_commits=true&card_width=450&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Github Readme Stats Card"/>
+        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Eric-Canas&show_icons=true&theme=transparent&include_all_commits=true&hide=issues&card_width=450" alt="Github Readme Stats Card"/>
     </a>
     <a href="https://github.com/Eric-Canas">
         <img height="200" align="center" src="https://streak-stats.demolab.com/?user=Eric-Canas&theme=transparent&hide_current_streak=true&card_width=400" alt="Github Streak Stats"/>
